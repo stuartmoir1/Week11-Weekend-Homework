@@ -1,0 +1,11 @@
+#map {
+  height:500px;
+  width:500px;
+}
+
+div {
+  font-family: Helvetica;
+  margin: auto;
+  padding-right: 50px;
+  padding-left: 50px;
+}
